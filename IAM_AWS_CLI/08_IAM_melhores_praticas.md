@@ -76,15 +76,6 @@ A seguir estão as práticas recomendadas para manter sua conta AWS segura e bem
 
 ---
 
-## 🧭 Próximos Estudos Recomendados
-
-- Políticas IAM em JSON (sintaxe e estrutura)
-- IAM Roles e Trust Relationships
-- IAM Policy Simulator
-- AWS Organizations e SCPs (Service Control Policies)
-
----
-
 ## 📚 Referências Oficiais
 
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
